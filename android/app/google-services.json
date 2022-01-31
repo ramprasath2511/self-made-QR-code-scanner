@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "917970836965",
+    "project_id": "qrknow-350ff",
+    "storage_bucket": "qrknow-350ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917970836965:android:baea3d3ab256664cfaa30c",
+        "android_client_info": {
+          "package_name": "com.sataware.qrknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917970836965-6pa04j3l159rvj8e939etk41h7sks1pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.qrknow",
+            "certificate_hash": "0d03f412d35c64592614d7f5caf196676a6aa3d4"
+          }
+        },
+        {
+          "client_id": "917970836965-c85n8ao2jd3nm6o6hlvn3lsn0ec7jphf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.qrknow",
+            "certificate_hash": "713c571c24ab0cf37bb99f1c071c22538b4c3ce2"
+          }
+        },
+        {
+          "client_id": "917970836965-f9gu1vd6p86f4djv3geia3omfbadt6m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.qrknow",
+            "certificate_hash": "21130c36f90c1c46c149f0a894962f57105666c3"
+          }
+        },
+        {
+          "client_id": "917970836965-hiui1djrhc1vmlomfflj5unj2hajkroi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.qrknow",
+            "certificate_hash": "cd370dd4c4d4a18363a906ff1a771965e50ac1b9"
+          }
+        },
+        {
+          "client_id": "917970836965-rrlos0uvuf7ii0r8s5mjccu3jrei0307.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.qrknow",
+            "certificate_hash": "cecf8c4fae18a36598fe601c89ab169dab7882d2"
+          }
+        },
+        {
+          "client_id": "917970836965-j3muusovisb116u6uh5ah4kufgtd6rj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosdV433VH6a3aGFV1I7qjg016Tv7xS4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917970836965-j3muusovisb116u6uh5ah4kufgtd6rj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917970836965-tindesq0alf3c93eqe30jbm9eahonl0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sataware.qrknow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
